@@ -1,0 +1,42 @@
+[
+  {
+    "skill": "Data Analytics",
+    "course": "Google Data Analytics Professional Certificate",
+    "weeks": 8
+  },
+  {
+    "skill": "Cloud Computing",
+    "course": "AWS Cloud Practitioner Essentials",
+    "weeks": 3
+  },
+  {
+    "skill": "Kubernetes",
+    "course": "Kubernetes Basics",
+    "weeks": 4
+  },
+  {
+    "skill": "Python",
+    "course": "Python for Everybody",
+    "weeks": 6
+  },
+  {
+    "skill": "AWS",
+    "course": "AWS Skill Builder: Cloud Essentials",
+    "weeks": 3
+  },
+  {
+    "skill": "React",
+    "course": "React Fundamentals",
+    "weeks": 2
+  },
+  {
+    "skill": "SQL",
+    "course": "SQL for Data Analysis",
+    "weeks": 3
+  },
+  {
+    "skill": "Docker",
+    "course": "Docker Foundations",
+    "weeks": 2
+  }
+]

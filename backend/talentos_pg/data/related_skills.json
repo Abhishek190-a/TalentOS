@@ -1,0 +1,42 @@
+{
+  "Data Analytics": [
+    "Pandas",
+    "SQL",
+    "Statistics"
+  ],
+  "Cloud Computing": [
+    "AWS",
+    "Azure",
+    "Docker"
+  ],
+  "Kubernetes": [
+    "Docker",
+    "AWS",
+    "Cloud Computing"
+  ],
+  "Python": [
+    "SQL",
+    "Pandas",
+    "FastAPI"
+  ],
+  "AWS": [
+    "Docker",
+    "Cloud Computing",
+    "Linux"
+  ],
+  "React": [
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "SQL": [
+    "Pandas",
+    "Statistics",
+    "Python"
+  ],
+  "Docker": [
+    "AWS",
+    "Linux",
+    "Cloud Computing"
+  ]
+}

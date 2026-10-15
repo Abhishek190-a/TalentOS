@@ -1,0 +1,170 @@
+[
+  {
+    "id": "P001",
+    "name": "Cloud Analytics Platform",
+    "brief": "Build a cloud-hosted analytics platform using Python, cloud computing and data analytics.",
+    "hours_needed": 120,
+    "team_size": 4,
+    "required": {
+      "Python": {
+        "level": 4,
+        "weight": 0.4
+      },
+      "Cloud Computing": {
+        "level": 3,
+        "weight": 0.3
+      },
+      "Data Analytics": {
+        "level": 3,
+        "weight": 0.3
+      }
+    }
+  },
+  {
+    "id": "P002",
+    "name": "Customer Portal",
+    "brief": "Build a secure customer portal with React and Python APIs.",
+    "hours_needed": 100,
+    "team_size": 3,
+    "required": {
+      "React": {
+        "level": 3,
+        "weight": 0.4
+      },
+      "Python": {
+        "level": 3,
+        "weight": 0.4
+      },
+      "SQL": {
+        "level": 3,
+        "weight": 0.2
+      }
+    }
+  },
+  {
+    "id": "P003",
+    "name": "Cloud Migration",
+    "brief": "Move services to cloud infrastructure with Docker and AWS.",
+    "hours_needed": 140,
+    "team_size": 4,
+    "required": {
+      "AWS": {
+        "level": 4,
+        "weight": 0.4
+      },
+      "Docker": {
+        "level": 3,
+        "weight": 0.3
+      },
+      "Cloud Computing": {
+        "level": 3,
+        "weight": 0.3
+      }
+    }
+  },
+  {
+    "id": "P004",
+    "name": "Forecasting Prototype",
+    "brief": "Create a data science forecasting prototype with Python, Pandas and statistics.",
+    "hours_needed": 90,
+    "team_size": 3,
+    "required": {
+      "Python": {
+        "level": 4,
+        "weight": 0.35
+      },
+      "Pandas": {
+        "level": 4,
+        "weight": 0.35
+      },
+      "Statistics": {
+        "level": 3,
+        "weight": 0.3
+      }
+    }
+  },
+  {
+    "id": "P005",
+    "name": "API Reliability",
+    "brief": "Improve API performance, testing and observability.",
+    "hours_needed": 80,
+    "team_size": 3,
+    "required": {
+      "FastAPI": {
+        "level": 3,
+        "weight": 0.4
+      },
+      "Python": {
+        "level": 3,
+        "weight": 0.35
+      },
+      "SQL": {
+        "level": 3,
+        "weight": 0.25
+      }
+    }
+  },
+  {
+    "id": "P006",
+    "name": "Container Platform",
+    "brief": "Create a container platform with Kubernetes, Docker and cloud skills.",
+    "hours_needed": 120,
+    "team_size": 3,
+    "required": {
+      "Kubernetes": {
+        "level": 3,
+        "weight": 0.4
+      },
+      "Docker": {
+        "level": 3,
+        "weight": 0.3
+      },
+      "AWS": {
+        "level": 3,
+        "weight": 0.3
+      }
+    }
+  },
+  {
+    "id": "P007",
+    "name": "Operations Dashboard",
+    "brief": "Build an operations dashboard with JavaScript, React and SQL.",
+    "hours_needed": 70,
+    "team_size": 3,
+    "required": {
+      "JavaScript": {
+        "level": 3,
+        "weight": 0.35
+      },
+      "React": {
+        "level": 3,
+        "weight": 0.4
+      },
+      "SQL": {
+        "level": 3,
+        "weight": 0.25
+      }
+    }
+  },
+  {
+    "id": "P008",
+    "name": "Data Pipeline",
+    "brief": "Develop data ingestion and transformation using Python, SQL and Pandas.",
+    "hours_needed": 110,
+    "team_size": 4,
+    "required": {
+      "Python": {
+        "level": 4,
+        "weight": 0.35
+      },
+      "SQL": {
+        "level": 4,
+        "weight": 0.35
+      },
+      "Pandas": {
+        "level": 3,
+        "weight": 0.3
+      }
+    }
+  }
+]

@@ -1,0 +1,531 @@
+[
+  {
+    "id": "E001",
+    "name": "Aarav Sharma",
+    "role": "Backend Engineer",
+    "years_exp": 1,
+    "capacity_hrs": 40,
+    "assigned_hrs": 22,
+    "skills": {
+      "Python": 4,
+      "AWS": 3,
+      "SQL": 3,
+      "Cloud Computing": 3
+    }
+  },
+  {
+    "id": "E002",
+    "name": "Aditi Rao",
+    "role": "Data Analyst",
+    "years_exp": 4,
+    "capacity_hrs": 40,
+    "assigned_hrs": 25,
+    "skills": {
+      "Pandas": 4,
+      "SQL": 4,
+      "Statistics": 3
+    }
+  },
+  {
+    "id": "E003",
+    "name": "Arjun Nair",
+    "role": "Cloud Engineer",
+    "years_exp": 7,
+    "capacity_hrs": 40,
+    "assigned_hrs": 12,
+    "skills": {
+      "Azure": 4,
+      "Docker": 3,
+      "Cloud Computing": 3,
+      "Python": 3,
+      "AWS": 3
+    }
+  },
+  {
+    "id": "E004",
+    "name": "Ananya Iyer",
+    "role": "Full Stack Developer",
+    "years_exp": 10,
+    "capacity_hrs": 40,
+    "assigned_hrs": 31,
+    "skills": {
+      "JavaScript": 4,
+      "React": 4,
+      "Python": 2
+    }
+  },
+  {
+    "id": "E005",
+    "name": "Ravi Kumar",
+    "role": "ML Engineer",
+    "years_exp": 1,
+    "capacity_hrs": 40,
+    "assigned_hrs": 52,
+    "skills": {
+      "Python": 5,
+      "Pandas": 4,
+      "SQL": 3,
+      "AWS": 4,
+      "Kubernetes": 4
+    }
+  },
+  {
+    "id": "E006",
+    "name": "Priya Reddy",
+    "role": "DevOps Engineer",
+    "years_exp": 4,
+    "capacity_hrs": 40,
+    "assigned_hrs": 22,
+    "skills": {
+      "AWS": 4,
+      "Docker": 4
+    }
+  },
+  {
+    "id": "E007",
+    "name": "Vikram Singh",
+    "role": "QA Engineer",
+    "years_exp": 7,
+    "capacity_hrs": 40,
+    "assigned_hrs": 25,
+    "skills": {
+      "Python": 3,
+      "SQL": 3,
+      "FastAPI": 4
+    }
+  },
+  {
+    "id": "E008",
+    "name": "Sneha Patel",
+    "role": "Data Engineer",
+    "years_exp": 10,
+    "capacity_hrs": 40,
+    "assigned_hrs": 28,
+    "skills": {
+      "Pandas": 3,
+      "SQL": 4,
+      "Statistics": 4
+    }
+  },
+  {
+    "id": "E009",
+    "name": "Karthik Gowda",
+    "role": "Backend Engineer",
+    "years_exp": 1,
+    "capacity_hrs": 40,
+    "assigned_hrs": 12,
+    "skills": {
+      "Python": 3,
+      "AWS": 3,
+      "SQL": 3,
+      "Cloud Computing": 3
+    }
+  },
+  {
+    "id": "E010",
+    "name": "Meera Menon",
+    "role": "Data Analyst",
+    "years_exp": 4,
+    "capacity_hrs": 40,
+    "assigned_hrs": 34,
+    "skills": {
+      "Pandas": 4,
+      "SQL": 4,
+      "Statistics": 3
+    }
+  },
+  {
+    "id": "E011",
+    "name": "Rahul Verma",
+    "role": "Cloud Engineer",
+    "years_exp": 7,
+    "capacity_hrs": 40,
+    "assigned_hrs": 22,
+    "skills": {
+      "Azure": 4,
+      "Docker": 3,
+      "Cloud Computing": 3
+    }
+  },
+  {
+    "id": "E012",
+    "name": "Ishita Das",
+    "role": "Full Stack Developer",
+    "years_exp": 10,
+    "capacity_hrs": 40,
+    "assigned_hrs": 25,
+    "skills": {
+      "JavaScript": 4,
+      "React": 4,
+      "Python": 2
+    }
+  },
+  {
+    "id": "E013",
+    "name": "Aditya Joshi",
+    "role": "ML Engineer",
+    "years_exp": 1,
+    "capacity_hrs": 40,
+    "assigned_hrs": 28,
+    "skills": {
+      "Python": 5,
+      "Pandas": 4,
+      "SQL": 3,
+      "AWS": 3,
+      "Cloud Computing": 3
+    }
+  },
+  {
+    "id": "E014",
+    "name": "Kavya Shetty",
+    "role": "DevOps Engineer",
+    "years_exp": 4,
+    "capacity_hrs": 40,
+    "assigned_hrs": 31,
+    "skills": {
+      "AWS": 4,
+      "Docker": 4
+    }
+  },
+  {
+    "id": "E015",
+    "name": "Sanjay Kulkarni",
+    "role": "QA Engineer",
+    "years_exp": 7,
+    "capacity_hrs": 40,
+    "assigned_hrs": 34,
+    "skills": {
+      "Python": 3,
+      "SQL": 3,
+      "FastAPI": 4
+    }
+  },
+  {
+    "id": "E016",
+    "name": "Pooja Mishra",
+    "role": "Data Engineer",
+    "years_exp": 10,
+    "capacity_hrs": 40,
+    "assigned_hrs": 22,
+    "skills": {
+      "Pandas": 3,
+      "SQL": 4,
+      "Statistics": 4
+    }
+  },
+  {
+    "id": "E017",
+    "name": "Nikhil Jain",
+    "role": "Backend Engineer",
+    "years_exp": 1,
+    "capacity_hrs": 40,
+    "assigned_hrs": 25,
+    "skills": {
+      "Python": 4,
+      "AWS": 3,
+      "SQL": 3
+    }
+  },
+  {
+    "id": "E018",
+    "name": "Divya Hegde",
+    "role": "Data Analyst",
+    "years_exp": 4,
+    "capacity_hrs": 40,
+    "assigned_hrs": 28,
+    "skills": {
+      "Pandas": 4,
+      "SQL": 4,
+      "Statistics": 3
+    }
+  },
+  {
+    "id": "E019",
+    "name": "Rohan Das",
+    "role": "Cloud Engineer",
+    "years_exp": 7,
+    "capacity_hrs": 40,
+    "assigned_hrs": 31,
+    "skills": {
+      "Azure": 4,
+      "Docker": 3,
+      "Cloud Computing": 3
+    }
+  },
+  {
+    "id": "E020",
+    "name": "Neha Kapoor",
+    "role": "Full Stack Developer",
+    "years_exp": 10,
+    "capacity_hrs": 40,
+    "assigned_hrs": 34,
+    "skills": {
+      "JavaScript": 4,
+      "React": 4,
+      "Python": 2
+    }
+  },
+  {
+    "id": "E021",
+    "name": "Suresh Babu",
+    "role": "ML Engineer",
+    "years_exp": 1,
+    "capacity_hrs": 40,
+    "assigned_hrs": 22,
+    "skills": {
+      "Python": 5,
+      "Pandas": 4,
+      "SQL": 3,
+      "AWS": 3,
+      "Cloud Computing": 3
+    }
+  },
+  {
+    "id": "E022",
+    "name": "Tanvi Shah",
+    "role": "DevOps Engineer",
+    "years_exp": 4,
+    "capacity_hrs": 40,
+    "assigned_hrs": 25,
+    "skills": {
+      "AWS": 4,
+      "Docker": 4
+    }
+  },
+  {
+    "id": "E023",
+    "name": "Manish Yadav",
+    "role": "QA Engineer",
+    "years_exp": 7,
+    "capacity_hrs": 40,
+    "assigned_hrs": 28,
+    "skills": {
+      "Python": 3,
+      "SQL": 3,
+      "FastAPI": 4
+    }
+  },
+  {
+    "id": "E024",
+    "name": "Shreya Bose",
+    "role": "Data Engineer",
+    "years_exp": 10,
+    "capacity_hrs": 40,
+    "assigned_hrs": 31,
+    "skills": {
+      "Pandas": 3,
+      "SQL": 4,
+      "Statistics": 4
+    }
+  },
+  {
+    "id": "E025",
+    "name": "Akash Gupta",
+    "role": "Backend Engineer",
+    "years_exp": 1,
+    "capacity_hrs": 40,
+    "assigned_hrs": 34,
+    "skills": {
+      "Python": 4,
+      "AWS": 3,
+      "SQL": 3
+    }
+  },
+  {
+    "id": "E026",
+    "name": "Nandini Rao",
+    "role": "Data Analyst",
+    "years_exp": 4,
+    "capacity_hrs": 40,
+    "assigned_hrs": 22,
+    "skills": {
+      "Pandas": 4,
+      "SQL": 4,
+      "Statistics": 3
+    }
+  },
+  {
+    "id": "E027",
+    "name": "Varun Pillai",
+    "role": "Cloud Engineer",
+    "years_exp": 7,
+    "capacity_hrs": 40,
+    "assigned_hrs": 25,
+    "skills": {
+      "Azure": 4,
+      "Docker": 3,
+      "Cloud Computing": 3,
+      "Python": 3,
+      "AWS": 3
+    }
+  },
+  {
+    "id": "E028",
+    "name": "Anjali Desai",
+    "role": "Full Stack Developer",
+    "years_exp": 10,
+    "capacity_hrs": 40,
+    "assigned_hrs": 28,
+    "skills": {
+      "JavaScript": 4,
+      "React": 4,
+      "Python": 2
+    }
+  },
+  {
+    "id": "E029",
+    "name": "Harish Naidu",
+    "role": "ML Engineer",
+    "years_exp": 1,
+    "capacity_hrs": 40,
+    "assigned_hrs": 31,
+    "skills": {
+      "Python": 5,
+      "Pandas": 4,
+      "SQL": 3
+    }
+  },
+  {
+    "id": "E030",
+    "name": "Sahana Murthy",
+    "role": "DevOps Engineer",
+    "years_exp": 4,
+    "capacity_hrs": 40,
+    "assigned_hrs": 34,
+    "skills": {
+      "AWS": 4,
+      "Docker": 4
+    }
+  },
+  {
+    "id": "E031",
+    "name": "Deepak Soni",
+    "role": "QA Engineer",
+    "years_exp": 7,
+    "capacity_hrs": 40,
+    "assigned_hrs": 22,
+    "skills": {
+      "Python": 3,
+      "SQL": 3,
+      "FastAPI": 4
+    }
+  },
+  {
+    "id": "E032",
+    "name": "Keerthi Ramesh",
+    "role": "Data Engineer",
+    "years_exp": 10,
+    "capacity_hrs": 40,
+    "assigned_hrs": 25,
+    "skills": {
+      "Pandas": 3,
+      "SQL": 4,
+      "Statistics": 4
+    }
+  },
+  {
+    "id": "E033",
+    "name": "Abhishek Roy",
+    "role": "Backend Engineer",
+    "years_exp": 1,
+    "capacity_hrs": 40,
+    "assigned_hrs": 28,
+    "skills": {
+      "Python": 4,
+      "AWS": 3,
+      "SQL": 3
+    }
+  },
+  {
+    "id": "E034",
+    "name": "Lavanya Pai",
+    "role": "Data Analyst",
+    "years_exp": 4,
+    "capacity_hrs": 40,
+    "assigned_hrs": 31,
+    "skills": {
+      "Pandas": 4,
+      "SQL": 4,
+      "Statistics": 3
+    }
+  },
+  {
+    "id": "E035",
+    "name": "Gautam Menon",
+    "role": "Cloud Engineer",
+    "years_exp": 7,
+    "capacity_hrs": 40,
+    "assigned_hrs": 34,
+    "skills": {
+      "Azure": 4,
+      "Docker": 3,
+      "Cloud Computing": 3,
+      "Python": 3,
+      "AWS": 3
+    }
+  },
+  {
+    "id": "E036",
+    "name": "Swathi Krishnan",
+    "role": "Full Stack Developer",
+    "years_exp": 10,
+    "capacity_hrs": 40,
+    "assigned_hrs": 22,
+    "skills": {
+      "JavaScript": 4,
+      "React": 4,
+      "Python": 2
+    }
+  },
+  {
+    "id": "E037",
+    "name": "Yash Mehta",
+    "role": "ML Engineer",
+    "years_exp": 1,
+    "capacity_hrs": 40,
+    "assigned_hrs": 25,
+    "skills": {
+      "Python": 5,
+      "Pandas": 4,
+      "SQL": 3
+    }
+  },
+  {
+    "id": "E038",
+    "name": "Pallavi Kulkarni",
+    "role": "DevOps Engineer",
+    "years_exp": 4,
+    "capacity_hrs": 40,
+    "assigned_hrs": 28,
+    "skills": {
+      "AWS": 4,
+      "Docker": 4
+    }
+  },
+  {
+    "id": "E039",
+    "name": "Mohit Arora",
+    "role": "QA Engineer",
+    "years_exp": 7,
+    "capacity_hrs": 40,
+    "assigned_hrs": 31,
+    "skills": {
+      "Python": 3,
+      "SQL": 3,
+      "FastAPI": 4
+    }
+  },
+  {
+    "id": "E040",
+    "name": "Rekha Nair",
+    "role": "Data Engineer",
+    "years_exp": 10,
+    "capacity_hrs": 40,
+    "assigned_hrs": 34,
+    "skills": {
+      "Pandas": 3,
+      "SQL": 4,
+      "Statistics": 4
+    }
+  }
+]
